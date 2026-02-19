@@ -1,0 +1,9 @@
+To clone a repo - git clone repoURL
+To create new branch - git branch -m branchName
+To checkout different branch - git checkout branchName
+To add cofig for the first time - git config --global user.email "you@example.com", git config --global user.name "Your Name"
+To Add new folders/new files/updated files  - git add  file/folder name
+To commit the added files/folders - git commit -m "Commit Message"
+To push the code - git push -u origin branchName
+To view updated files - git status
+
